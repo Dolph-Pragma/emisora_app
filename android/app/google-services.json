@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "42448997363",
+    "project_id": "login-with-b510f",
+    "storage_bucket": "login-with-b510f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42448997363:android:d21c731e2bbb1047c2e086",
+        "android_client_info": {
+          "package_name": "com.rodolfogiraldob.loginwithgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42448997363-0kunmucojgsqtkvl9a9299gbmjjthj3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodolfogiraldob.loginwithgoogle",
+            "certificate_hash": "406a5677c724111b1d78c0d920bac429fe297919"
+          }
+        },
+        {
+          "client_id": "42448997363-3chimirigan5pgbgti52kg9fla9b1ppu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodolfogiraldob.loginwithgoogle",
+            "certificate_hash": "35e9b4483af91baf458c7936711a817fd187436e"
+          }
+        },
+        {
+          "client_id": "42448997363-3gcmela4qilfavgusiga8e8n7vff0oan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodolfogiraldob.loginwithgoogle",
+            "certificate_hash": "563b3b95c3b7b64261cf7ac3e6b4d2d1880ca554"
+          }
+        },
+        {
+          "client_id": "42448997363-fhgb47av33ar43r1k465fckemki6rtl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodolfogiraldob.loginwithgoogle",
+            "certificate_hash": "05a3a6deae3e3a39d1d25c236fc2e7e09a083d8c"
+          }
+        },
+        {
+          "client_id": "42448997363-gtdnr5ftrjvr44lu4rsbep02rhk47jbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodolfogiraldob.loginwithgoogle",
+            "certificate_hash": "619789e2041307e326fe9837c74188bcac10ff3a"
+          }
+        },
+        {
+          "client_id": "42448997363-hf1mimg2ue1s6ij9kcmktq2q9klvrgmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rodolfogiraldob.loginwithgoogle",
+            "certificate_hash": "0a62e67630c47aa02eeed860224ef74ede85af5e"
+          }
+        },
+        {
+          "client_id": "42448997363-hmglock39ejtqrtqrper3uedu5fclgvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDftCmAxKncxsBv2Kk2FEdaakrVW0aX2Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42448997363-hmglock39ejtqrtqrper3uedu5fclgvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42448997363-03of353h403m0g8svgng9t6l6ffsglg0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rodolfogiraldob.loginwithgoogle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

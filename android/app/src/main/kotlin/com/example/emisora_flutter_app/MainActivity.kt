@@ -1,4 +1,4 @@
-package com.example.emisora_flutter_app
+package com.rodolfogiraldob.loginwithgoogle
 
 import io.flutter.embedding.android.FlutterActivity
 
